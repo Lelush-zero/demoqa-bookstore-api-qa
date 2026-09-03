@@ -7,20 +7,20 @@
 - Анализ Swagger
 - Составление и выполнение API-чек-листа
 - Позитивное и негативное тестирование
-- Проверка Bearer Token авторизации
+- Проверка авторизации по Bearer token
 - Проверка HTTP-кодов и структуры response
-- Проверка соответствия фактических ответов Swagger
+- Проверка соответствия фактических ответов описанию в Swagger
 - Оформление баг-репортов в YouTrack
 - Подготовка Postman Collection и Environment
 - Итоговый отчёт о тестировании
 
 ## Результаты
 
-- 11 протестированных endpoints
+- 11 протестированных эндпоинтов
 - 66 проверок
 - 50 Passed
 - 16 Failed
-- 8 оформленных bug reports
+- 8 оформленных баг-репортов
 
 ## Артефакты
 
@@ -40,3 +40,8 @@
 - Swagger
 - YouTrack
 - Google Sheets / Excel
+
+## Тестируемый сервис
+
+- [DemoQA Book Store](https://demoqa.com/books)
+- [Swagger API](https://bookstore.toolsqa.com/swagger/)
