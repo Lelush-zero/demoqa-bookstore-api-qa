@@ -24,7 +24,7 @@
 
 ## Артефакты
 
-- [API-чек-лист](docs/DemoQA_API_Checklist.xlsx)
+- API-чек-лист — [Excel](docs/DemoQA_API_Checklist.xlsx) | [Google Sheets](ТВОЯ_ССЫЛКА)
 - [Отчёт о тестировании](docs/DemoQA_Test_Report.pdf)
 - [Postman Collection](postman/DemoQA_Book_Store_API.postman_collection.json)
 - [Postman Environment](postman/DemoQA.postman_environment.json)
