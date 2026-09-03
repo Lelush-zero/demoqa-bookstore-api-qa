@@ -28,7 +28,7 @@
 - [Отчёт о тестировании (PDF)](docs/DemoQA_Test_Report.pdf)
 - [Postman Collection (.json)](postman/DemoQA_Book_Store_API.postman_collection.json)
 - [Postman Environment (.json)](postman/DemoQA.postman_environment.json)
- Postman-файлы предназначены для импорта в Postman.
+Postman-файлы предназначены для импорта в Postman.
 
 ## Баг-репорты
 
