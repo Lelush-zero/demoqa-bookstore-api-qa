@@ -1,13 +1,23 @@
-# demoqa-bookstore-api-qa
-Manual QA project for DemoQA Book Store API: Swagger analysis, Postman testing, API checklist, YouTrack bug reports and test report.
-demoqa-bookstore-api-qa/
-│
-├── README.md
-│
-├── docs/
-│   ├── DemoQA_API_Checklist.xlsx
-│   └── DemoQA_Test_Report.pdf
-│
-└── postman/
-    ├── DemoQA_Book_Store_API.postman_collection.json
-    └── DemoQA.postman_environment.json
+# DemoQA Book Store API — QA Project
+
+Самостоятельный проект по ручному тестированию REST API учебного сервиса DemoQA Book Store.
+
+## Что выполнено
+
+- Анализ Swagger
+- Составление и выполнение API-чек-листа
+- Позитивное и негативное тестирование
+- Проверка Bearer Token авторизации
+- Проверка HTTP-кодов и структуры response
+- Проверка соответствия фактических ответов Swagger
+- Оформление баг-репортов в YouTrack
+- Подготовка Postman Collection и Environment
+- Итоговый отчёт о тестировании
+
+## Результаты
+
+- 11 протестированных endpoints
+- 66 проверок
+- 50 Passed
+- 16 Failed
+- 8 оформленных bug reports
