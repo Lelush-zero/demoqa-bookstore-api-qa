@@ -21,3 +21,22 @@
 - 50 Passed
 - 16 Failed
 - 8 оформленных bug reports
+
+## Артефакты
+
+- [API-чек-лист](docs/DemoQA_API_Checklist.xlsx)
+- [Отчёт о тестировании](docs/DemoQA_Test_Report.pdf)
+- [Postman Collection](postman/DemoQA_Book_Store_API.postman_collection.json)
+- [Postman Environment](postman/DemoQA.postman_environment.json)
+
+## Баг-репорты
+
+Найденные дефекты оформлены в YouTrack.  
+Ссылки на соответствующие баг-репорты указаны непосредственно в API-чек-листе.
+
+## Инструменты
+
+- Postman
+- Swagger
+- YouTrack
+- Google Sheets / Excel
