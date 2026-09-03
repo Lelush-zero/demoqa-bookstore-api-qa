@@ -25,9 +25,9 @@
 ## Артефакты
 
 - API-чек-лист — [Excel](docs/DemoQA_API_Checklist.xlsx) | [Google Sheets](https://docs.google.com/spreadsheets/d/1D9c7W5anIfDNHE05L4q2MrMuSx8D7e_O_gqZppkuuyU/edit?gid=2053772883#gid=2053772883)
-- [Отчёт о тестировании](docs/DemoQA_Test_Report.pdf)
-- [Postman Collection](postman/DemoQA_Book_Store_API.postman_collection.json)
-- [Postman Environment](postman/DemoQA.postman_environment.json)
+- [Отчёт о тестировании (PDF)](docs/DemoQA_Test_Report.pdf)
+- [Postman Collection (.json)](postman/DemoQA_Book_Store_API.postman_collection.json)
+- [Postman Environment (.json)](postman/DemoQA.postman_environment.json)
 
 ## Баг-репорты
 
